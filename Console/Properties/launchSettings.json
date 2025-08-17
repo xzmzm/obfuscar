@@ -3,7 +3,7 @@
     "Obfuscar.Console": {
       "commandName": "Project",
       "commandLineArgs": "-v:diag obfuscar.xml",
-      "workingDirectory": "C:\\Users\\Administrator\\source\\repos\\test-console\\bin\\Debug\\net8.0"
+      "workingDirectory": "P:\\prj\\orange\\Kiwi.NET\\Kiwi.ImageProcessing.OpenCV411"
     }
   }
 }
